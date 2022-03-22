@@ -1,0 +1,9 @@
+{
+	"ip":"ult4.falix.gg",
+	"port": 26286,
+	"name": "idk",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 98237498 98237498",
+	"login-cmd":"/login 98237498"
+}
